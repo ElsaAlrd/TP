@@ -1,5 +1,5 @@
-#ifndef PRODUCT_H
-#define PRODUCT_H
+#ifndef PRODUIT_H
+#define PRODUIT_H
 
 #include <iostream>
 #include <string>
